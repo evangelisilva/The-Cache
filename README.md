@@ -9,8 +9,8 @@ The project is structured into two main components:
   * UDP with Stop-and-Wait (SNW) Protocol: Implements Stop-and-Wait reliability at the application layer while using UDP as the transport protocol.
 
 ### Usage Instructions
-1. File Placement: Ensure that the text files you wish to test are located in the appropriate _fl directories, such as client_fl, server_fl, or cache_fl.
-2. Initiating Requests: From the root directory, initiate a GET or PUT request using the following command format:
+File Placement: Ensure that the text files you wish to test are located in the appropriate _fl directories, such as client_fl, server_fl, or cache_fl.
+Initiating Requests: From the root directory, initiate a GET or PUT request using the following command format:
 
     get File1.txt
     
